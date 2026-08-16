@@ -1,16 +1,18 @@
-## Hi there 👋
+# Current Projects
 
-<!--
-**alias454/alias454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Flask-AAS](https://github.com/alias454-oss/flask-aas) — reusable Flask application host with auth, admin, audit, MFA, session management, and plugin support.
+- [AutoGrid360](https://github.com/alias454-oss/flask-aas-autogrid360-plugin) — vehicle inventory and classifieds application built on Flask-AAS.
+- [Security Workbench](https://github.com/alias454-oss/security-workbench) — artifact analysis and structured security findings.
+- [RSS-Syphon](https://github.com/alias454-oss/rss-syphon) — RSS collection and keyword-search tooling.
+- [YATSEE](https://github.com/YATSEE-Labs/YATSEE) — local-first civic meeting processing and intelligence pipeline.
 
-Here are some ideas to get you started:
+## Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actively maintained general-purpose projects are published under
+[alias454-oss](https://github.com/alias454-oss).
+
+## About
+
+Security engineer and systems architect with a focus on security, automation, infrastructure, and practical open-source software.
+
+More at [alias454.com](https://alias454.com/).
